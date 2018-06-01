@@ -19,3 +19,8 @@ O projeto propõe o desenvolvimento de um CRUD cuja arquitetura contemple os seg
 - DAO
 
 3. *STACKS*
+
+
+Desenvolvido por:
+[Simone Soares](https://github.com/Sisoares)
+[Mayara Caroline](https://github.com/mayaracaroline)
