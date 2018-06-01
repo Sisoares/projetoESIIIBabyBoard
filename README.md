@@ -18,7 +18,7 @@ O projeto propõe o desenvolvimento de um CRUD cuja arquitetura contemple os seg
 - Strategy
 - DAO
 
-3. *STACKS*
+3. **STACKS**
 - Em desenvolvimento    
 
 Desenvolvido por:  
